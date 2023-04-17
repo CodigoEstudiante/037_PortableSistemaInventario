@@ -1,0 +1,28 @@
+
+
+Recomendaciones:
+1.- Ejecutar el programa como administrador.
+2.- Cambiar las credenciales de inicio después del primer ingreso.
+3.- En caso se olvide las credenciales, ingrese lo siguiente para reestablecer:
+	usuario : administrador
+	contraseña: 13579123
+_____________________________________________________________________
+
+
+Credenciales de inicio:
+usuario: Admin
+contraseña: 123
+
+______________________________________________________________________
+
+Mensaje:
+El sistema está dirigido a un público con perfil programador, y el enfoque es
+solo de aprendizaje. Pero debido a la utilidad también estamos compartiendo a 
+un público de tipo usuario final con el fin de ser una mínima ayuda en sus procesos.
+
+El software es portable y no cuenta con una firma de publicación, así que puede que
+tenga problemas de confianza con windows.
+
+NO brindamos ningún tipo de soporte, y todo queda bajo su propia responsabilidad.
+
+Saludos Cordiales.
